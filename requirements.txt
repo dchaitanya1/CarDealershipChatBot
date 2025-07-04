@@ -1,0 +1,7 @@
+langchain_google_genai
+langchain
+langchain_experimental
+streamlit
+pymysql
+chromadb
+sentence-transformers
