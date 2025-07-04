@@ -24,7 +24,7 @@ def get_db_chain():
     )
 
     db_user = "root"
-    db_password = "bheemesh"
+    db_password = "your_db_password"
     db_host = "localhost"
     db_name = "car_dealership"
 
